@@ -5,6 +5,7 @@ Marcando vários endereços no Google Maps separados por categoria
 _____________________________________________________________________
 
 Autor:        Raphael Agneli
+
 Licensa:    Tem licensa nenhuma não, pode fazer o que quizer com isso aqui rsrs
 _____________________________________________________________________
 
